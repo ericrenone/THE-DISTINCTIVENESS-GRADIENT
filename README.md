@@ -1,6 +1,4 @@
 # The Distinctiveness Gradient
-## A field theory of emergent expressive complexity in sequentially shared artifacts
-
 ---
 
 *"The instruction never changed. Every person received the same rule."*
